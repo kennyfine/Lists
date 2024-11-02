@@ -14,10 +14,24 @@
 
     <h1>The dreamer journey</h1>
 
-    <h2> Why I dream
+    <h2>Why I dream</h2>
 
+    <ul>
+        <li>To fulfill my purpose</li>
+        <li>To realize my potential</li>
+        <li>To feel a sense of fulfillment</li>
+        <li>To overcome challenges</li>
+    </ul>
 
+    <h3> Why do I want to join E-health Africa</h3>
 
-    </body>
-
+    <ol>
+        <li>My passion tally with E-health Africa mission</li>
+        <li>Gain experience in health care project management</li>
+        <li>Address Healthcare disparities in Africa</li>
+        <li>Develop expertise in global health solutions</li>
+        <li>Advance Career in healthcare technology<\li>
+        <li>Join a team dedicated to make a living</li>
+   <\ol>
+  </body>
 </html>
